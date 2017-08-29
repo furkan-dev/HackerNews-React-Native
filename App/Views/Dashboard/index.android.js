@@ -204,6 +204,7 @@ var styles = StyleSheet.create({
         marginBottom: 10,
         color: 'gray',
     },
+	
     separator: {
         height: 1,
         backgroundColor: '#CCCCCC'
